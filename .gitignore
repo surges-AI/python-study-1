@@ -12,6 +12,12 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 
+# Streamlit 密钥（API key、密码存这里，绝不能提交）
+.streamlit/secrets.toml
+
 # 系统
 .DS_Store
 Thumbs.db
+
+# 本地一键推送脚本（不上传）
+*.bat
