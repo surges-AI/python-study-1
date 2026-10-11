@@ -1,0 +1,15 @@
+{
+  "session_id": "2026-10-11_16-12-14",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！很高兴见到你。有什么想聊的，或者需要我帮忙的吗？"
+    }
+  ],
+  "name": "",
+  "nature": ""
+}
