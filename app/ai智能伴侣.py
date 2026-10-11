@@ -12,6 +12,7 @@ st.set_page_config(
 )
 
 system_prompt = """你的昵称为%s，性格为%s，请根据上文进行回复"""
+
 #大标题
 st.title("AI智能伴侣")
 
